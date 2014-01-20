@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Richard Sherman
-Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Plugin URI: https://github.com/taupecat/richard-sherman/
 Description: Because when you make the game-clinching interception in the end zone, you just have to go berserk on national TV.
 Author: Tracy Rotton
 Version: 1.1
