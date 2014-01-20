@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Richard_Sherman
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Richard Sherman
 Plugin URI: http://wordpress.org/plugins/hello-dolly/
 Description: Because when you make the game-clinching interception in the end zone, you just have to go berserk on national TV.
 Author: Tracy Rotton
-Version: 1.0
+Version: 1.1
 Author URI: http://taupecat.com/
 */
 
@@ -21,7 +21,8 @@ That's the result you gonna get
 Don't you ever talk about me
 Don't you open your mouth about the best
 Or I'm going to shut it real quick
-LOB";
+LOB
+Stop bitching and fuckin adapt";
 
 	// Here we split it into lines
 	$interview = explode( "\n", $interview );
