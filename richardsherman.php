@@ -7,7 +7,7 @@
 Plugin Name: Richard Sherman
 Plugin URI: https://github.com/taupecat/richard-sherman/
 Description: Because when you make the game-clinching interception in the end zone, you just have to go berserk on national TV.
-Author: Tracy Rotton
+Author: Matt Mullenweg, Tracy Rotton
 Version: 1.1
 Author URI: http://taupecat.com/
 */
@@ -59,5 +59,3 @@ function richardsherman_css() {
 }
 
 add_action( 'admin_head', 'richardsherman_css' );
-
-?>
