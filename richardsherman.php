@@ -20,7 +20,7 @@ When you try me with a sorry receiver like Crabtree
 That's the result you gonna get
 Don't you ever talk about me
 Don't you open your mouth about the best
-Or I'm going to shut it real quick
+Or I'm going to shut it for you real quick
 LOB
 Stop bitching and fuckin adapt";
 
